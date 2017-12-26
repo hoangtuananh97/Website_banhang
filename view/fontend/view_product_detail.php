@@ -19,4 +19,14 @@
 		<legend>Chi Tiết</legend>
 		<div><p><?php echo $product->c_content; ?></p></div>
 	</fieldset>
+
+
+
+
+
+
+
+
+
+	
 </div>
