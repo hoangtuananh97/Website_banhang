@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 	<title>Giày Đẹp</title>
@@ -20,6 +20,7 @@
 		}
 		include 'view/fontend/view_layout.php';
 	 ?>
+//tuan anh
 
 </body>
 </html>
